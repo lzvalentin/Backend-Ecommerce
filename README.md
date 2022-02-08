@@ -25,9 +25,11 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
+![terminal](./assets/images/terminal.gif)
+![category](./assets/images/categories.gif)
 
 ## Instructions
 
 1. Install npm packages. 'npm i mysql sequelize dotenv'
 2. You will need to run 'npm run seed' to seed data.
-3. Will then need to rude node server.js to start the server. 
+3. Will then need to run 'npm start' to start the server. 
