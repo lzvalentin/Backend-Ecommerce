@@ -4,6 +4,8 @@
 
 Working with a e-commerce company. We want to modify code to build a website with latest technologies. Our database will include categories, products and product tags, etc.
 
+Deployed: https://nameless-bastion-00131.herokuapp.com/
+
 ## User Story
 
 ```md
